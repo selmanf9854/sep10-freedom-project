@@ -18,7 +18,13 @@ Topic: **HEALTH**
  * <img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSvP-fIy2EWlXCKc1RMVxrz3pe8hoOiIb_InXiCUguFLZVLLTwcUZjTlNLF4Ekz0A" alt="WHOOP"/>
   * <img width="831" height="369" alt="image" src="https://github.com/user-attachments/assets/28399bc2-f4d3-4d9e-9039-414e8f84f11a" />  *https://images.ctfassets.net/rbzqg6pelgqa/3CCQWI1KRdKsfMkGIgNfls/1db1bc98dbbca4f4c288cca02729e964/Not_a_whoop_member_image__1_.png
   *  [image text](image URL)
+  *  **hardware**
+  *  https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-glucose-meter/art-20046335
+  *  http://mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675
+  *  The materials above are 2 hardware pieces that are used in health. The clinic i cited is a very established/acomplished medical institute that has wou
 
-## Part B: possible future technology
-* Idea
+
+## Part B: possible future technology 
+
+* 
   * Detail
