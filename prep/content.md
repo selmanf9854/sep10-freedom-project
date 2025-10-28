@@ -22,6 +22,15 @@ Topic: **HEALTH**
   *  https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-glucose-meter/art-20046335
   *  http://mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675
   *  The materials above are 2 hardware pieces that are used in health. The clinic i cited is a very established/acomplished medical institute that has wou
+  *  https://www.dicardiology.com/article/what-consider-when-buying-new-ct-scanner
+  *  https://www.forbes.com/health/medical-supplies/best-posture-correctors/
+  *  https://us.medical.canon/products/x-ray/
+  *  https://www.dexcom.com/en-us
+  * https://www.diamedicalusa.com/ICU-Medical-Plum-360-Infusion-Pump-Instructional-Use?srsltid=AfmBOoqnnLqtXjaAJP3YASq-i9oqyCbiEo1gC4XIJm7EERuMaF32PHz2A3w
+  * https://mainclinicsupply.com/products/inogen-one-g5-2020-model-rated-1-in-portable-high-flow-oxygen-1-6-only-4-7-pounds-free-fedex-next-day-delivery-dont-miss-this-sale
+  * https://www.stethoscope.com/?srsltid=AfmBOoql527kMptHTYwOWPQkj0hwGg4Pi2ZTHgN2eBO3jNhigKuptZBB
+  * IVe noticed alot of these cost upwards of 8000 dollars so this may be something i can aim to tackle in my freedom project
+  * These companys seem to fluxuate prices to an absurd degree.
 
 
 ## Part B: possible future technology 
