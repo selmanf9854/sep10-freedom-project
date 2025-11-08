@@ -11,10 +11,7 @@ Having my previous findings in mind, I wanted to come up with a solution. the id
 ### conclusion
 
 In short, Since my first blog entry I researched fetures that could help with my freedom project aswell as finding out why other executions of my idea dont work.
-[you’re telling a story about what you’ve been doing since writing Blog 1]
 
-
-Text
 
 [Previous](entry01.md) | [Next](entry03.md)
 
