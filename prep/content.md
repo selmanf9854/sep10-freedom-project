@@ -1,12 +1,16 @@
 # Content
-Topic: **HEALTH**
+Topic: **HEALTH** 6ixty 7even 
 
 ## Overview/Introduction/Context
 * in this research i looked and found apps and tools that can be used for health and physical activity.
-* this is because i wanted to make this is because the price of everything is becoming more and more expensive and im trying to find good prices for a good eperience.
-* Text
-`
+* this is because i wanted to make this is because the price of everything is becoming more and more expensive and im trying to find good prices for a good experience.
+* `
 ## Part A: existing technology
+-complex
+
+-simple
+
+expensive 
 * The first app that i found was The Apple fitness app. https://apps.apple.com/us/app/apple-fitness/id1208224953
   * the first thing that immediatly jummped out at me was the reviews saying a large majority of the app is paywalled (in typical apple fashion.)
   * Just seeing that, I realized the fitness app genre is largely relying on the Smart watch market, which is not accessible to everybody.
@@ -19,6 +23,7 @@ Topic: **HEALTH**
  * <img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSvP-fIy2EWlXCKc1RMVxrz3pe8hoOiIb_InXiCUguFLZVLLTwcUZjTlNLF4Ekz0A" alt="WHOOP"/>
   * <img width="831" height="369" alt="image" src="https://github.com/user-attachments/assets/28399bc2-f4d3-4d9e-9039-414e8f84f11a" />  *https://images.ctfassets.net/rbzqg6pelgqa/3CCQWI1KRdKsfMkGIgNfls/1db1bc98dbbca4f4c288cca02729e964/Not_a_whoop_member_image__1_.png
   *  [image text](image URL)
+  *  i
   *  **hardware**
   *  https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-glucose-meter/art-20046335
   *  http://mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675
