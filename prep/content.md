@@ -2,7 +2,8 @@
 Topic: **HEALTH**
 
 ## Overview/Introduction/Context
-* Text
+* in this research i looked and found apps and tools that can be used for health and physical activity.
+* this is because i wanted to make this is because the price of everything is becoming more and more expensive and im trying to find good prices for a good eperience.
 * Text
 `
 ## Part A: existing technology
