@@ -59,6 +59,11 @@ The BUllet points below are uber rich Medical practices that employ only the Ver
 * https://privatemedical.org/practice-locations/nyc-concierge-medicine-manhattan-new-york-city-doctors/
  *https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTQ1MDg4MzQwNjE5OTczOjE3NjMzMTE2NzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTAwNjI4NjkwNDkwMjo6Ojo&url=%2Fdp%2FB0BF9YHRFM%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0BF9YHRFM%26pd_rd_w%3DMA40O%26content-id%3Damzn1.sym.bbb3fb5e-28ad-4062-a3ba-1f7b9f2e4371%26pf_rd_p%3Dbbb3fb5e-28ad-4062-a3ba-1f7b9f2e4371%26pf_rd_r%3DG91T5TF6HNDQJXTW1TDA%26pd_rd_wg%3DkS6Ad%26pd_rd_r%3D3f244ed5-6039-4d23-bb7e-bb6b7228c0a3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
 
+### Price 
+ For this last nullet list I am going to go through fairly priced accesories for health and exersize that is easy to get
+ *https://shop.whoop.com/us/en/
+ *https://www.apple.com/shop/refurbished/watch
+ *https://www.walmart.com/ip/Exercise-Bike-Indoor-Stationary-Cycling-300lbs-Weight-Capacity-100-Resistance-Adjustment-Range-Heavy-Flywheel-Comfortable-Seat-Cushion-LCD-Monitor/16912622685?wmlspartner=wlpa&selectedSellerId=102850448
 ## Part B: possible future technology 
 
 * 
