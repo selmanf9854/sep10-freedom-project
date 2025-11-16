@@ -20,8 +20,7 @@ expensive
         *I did some additional  and found this website called WHOOP.
   * The prices of a whoop is significantly cheaper than the rest (200) but the software itself is not perfect,
   * https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtenoZJoF_Y8bJc7oFDHg01JZQ4oEEC7BvBpicJ7cYgooe676raVrQ08BDw3EVqVoViAZr8PpmEKAnqwqZHlBFoKnEeRUKLPf4nWChdwSwPQ
- * <img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSvP-fIy2EWlXCKc1RMVxrz3pe8hoOiIb_InXiCUguFLZVLLTwcUZjTlNLF4Ekz0A" alt="WHOOP"/>
-  * <img width="831" height="369" alt="image" src="https://github.com/user-attachments/assets/28399bc2-f4d3-4d9e-9039-414e8f84f11a" />  *https://images.ctfassets.net/rbzqg6pelgqa/3CCQWI1KRdKsfMkGIgNfls/1db1bc98dbbca4f4c288cca02729e964/Not_a_whoop_member_image__1_.png
+*https://images.ctfassets.net/rbzqg6pelgqa/3CCQWI1KRdKsfMkGIgNfls/1db1bc98dbbca4f4c288cca02729e964/Not_a_whoop_member_image__1_.png
   *  [image text](image URL)
   *  i
   *  **hardware**
