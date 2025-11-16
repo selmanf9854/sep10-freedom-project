@@ -1,5 +1,5 @@
 # Content
-Topic: **HEALTH** 6ixty 7even 
+Topic: **HEALTH** 
 
 ## Overview/Introduction/Context
 * in this research i looked and found apps and tools that can be used for health and physical activity.
