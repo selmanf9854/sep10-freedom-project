@@ -9,8 +9,7 @@ After Trying out the 2 mile walk and putting my findings in my notes app I wante
 Having my previous findings in mind, I wanted to come up with a solution. the idea that I have decided on solving the problem with is making a chatroom inside of the APp that i want to develope that allows for people to talk with others that workout at the same time but keeping ads to a minimum and being free. 
 
 ### conclusion
-What my findings have concluded is that These companys are money hungry and in some cases promote bloatware (Software that just slows your phone down beyond reason). The problemm is is that These apps are the only option next to very pricey subscriptions and gyms so the consumer is forced into a stalemate where they are forced to take the cheaper option of the 2
-In short, Since my first blog entry I researched fetures that could help with my freedom project aswell as finding out why other executions of my idea dont work.
+What my findings have concluded is that These companys are money hungry and in some cases promote bloatware (Software that just slows your phone down beyond reason). The problemm is is that These apps are the only option next to very pricey subscriptions and gyms so the consumer is forced into a stalemate where they are forced to take the cheaper option of the 2. In short, Since my first blog entry I researched fetures that could help with my freedom project aswell as finding out why other executions of my idea dont work.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
